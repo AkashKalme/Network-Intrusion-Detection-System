@@ -1,0 +1,5 @@
+django
+django_eventstream
+djangorestframework
+django-cors-headers
+scikit-learn
